@@ -1,0 +1,19 @@
+# Personal case files — NOT for public distribution
+concern.md
+status.md
+solution.md
+supplement/concern.md
+supplement/status.md
+supplement/solution.md
+/cases/
+/private/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
