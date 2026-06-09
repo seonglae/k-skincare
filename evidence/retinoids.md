@@ -1,6 +1,6 @@
 # Evidence: Adapalene & Topical Retinoids (RCT-graded)
 
-**Summary**: Adapalene 0.1% gel has multi-center RCT evidence of equal-or-superior efficacy to tretinoin 0.025% for acne with substantially better tolerability, and topical retinoids (tretinoin especially) have 30+ years of RCT support for photoaging, solar lentigines, pore appearance, and PIH. For a adult Korean male with combined acne and early photoaging concerns, adapalene 0.1% is the best-tolerated entry retinoid with strong head-to-head efficacy data, transitioning to tretinoin 0.05% if photoaging/PIH endpoints become priorities.
+**Summary**: Adapalene 0.1% gel has multi-center RCT evidence of equal-or-superior efficacy to tretinoin 0.025% for acne with substantially better tolerability, and topical retinoids (tretinoin especially) have 30+ years of RCT support for photoaging, solar lentigines, pore appearance, and PIH. For an adult patient with combined acne and early photoaging concerns, adapalene 0.1% is the best-tolerated entry retinoid with strong head-to-head efficacy data, transitioning to tretinoin 0.05% if photoaging/PIH endpoints become priorities.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Intervention vs control**: Adapalene gel 0.1% vs tretinoin gel 0.025%, once daily.
 - **Primary outcome / effect size**: Total lesion count reduction 49% (adapalene) vs 37% (tretinoin), p<0.01; non-inflammatory 46% vs 33% (p=0.02); irritation significantly lower with adapalene.
 - **Quality**: A (multi-center RCT)
-- **Takeaway**: Start adapalene 0.1% rather than tretinoin 0.025% — equal or better acne efficacy with markedly less irritation, important for the Korean patient's typically thinner stratum corneum tolerance.
+- **Takeaway**: Start adapalene 0.1% rather than tretinoin 0.025% — equal or better acne efficacy with markedly less irritation, important for Asian skin where stratum corneum tolerance tends to be thinner.
 
 ### 2. Stuart et al. 2021 — Network meta-analysis, topical acne treatments
 - **Citation**: Stuart B, Maund E, Wilcox C, et al. Topical preparations for the treatment of mild-to-moderate acne vulgaris: systematic review and network meta-analysis. *Br J Dermatol.* 2021;185(3):512-525. DOI: 10.1111/bjd.20080.
@@ -26,7 +26,7 @@
 - **Intervention vs control**: Tretinoin 0.05% cream vs vehicle, daily.
 - **Primary outcome / effect size**: Histologic findings — epidermal hyperplasia replacing atrophy, eradication of microscopic actinic keratoses, melanin redispersal, new papillary collagen and angiogenesis. Clinical photoaging signs improved in active arm.
 - **Quality**: B (single-center vehicle-controlled, but landmark mechanistic evidence)
-- **Takeaway**: Establishes biological rationale for retinoids in photoaging — useful for counseling the patient that retinoids do not just exfoliate but rebuild dermal collagen.
+- **Takeaway**: Establishes biological rationale for retinoids in photoaging — useful for counseling that retinoids do not just exfoliate but rebuild dermal collagen.
 
 ### 4. Kang et al. 2005 — Long-term tretinoin safety (2-year RCT, up to 4-year biopsy follow-up)
 - **Citation**: Kang S, Bergfeld W, Gottlieb AB, et al. Long-term efficacy and safety of tretinoin emollient cream 0.05% in the treatment of photodamaged facial skin: a two-year, randomized, placebo-controlled trial. *Am J Clin Dermatol.* 2005;6(4):245-253. PMID: 16060712.
@@ -34,7 +34,7 @@
 - **Intervention vs control**: Tretinoin emollient cream 0.05% vs vehicle, daily.
 - **Primary outcome / effect size**: Significantly greater improvement in fine/coarse wrinkles, mottled hyperpigmentation, lentigines, sallowness (p<0.05). Procollagen 1 C-terminal increased at 12 months (p=0.0074). No keratinocytic/melanocytic atypia or elastosis at long-term biopsy.
 - **Quality**: A (multicenter RCT, long-term)
-- **Takeaway**: Strongest available evidence that daily topical retinoid is safe over 2–4 years — supports long-term nightly use for the patient's combined acne + photoaging maintenance plan.
+- **Takeaway**: Strongest available evidence that daily topical retinoid is safe over 2–4 years — supports long-term nightly use for combined acne + photoaging maintenance.
 
 ### 5. Rafal, Griffiths et al. 1992 — Tretinoin 0.1% for solar lentigines (NEJM)
 - **Citation**: Rafal ES, Griffiths CEM, Ditre CM, et al. Topical tretinoin (retinoic acid) treatment for liver spots associated with photodamage. *N Engl J Med.* 1992;326(6):368-374. DOI: 10.1056/NEJM199202063260603.
@@ -49,8 +49,8 @@
 - **Design / N**: Randomized, double-blind, vehicle-controlled; N = 54; 40 weeks.
 - **Intervention vs control**: Tretinoin 0.1% cream vs vehicle, once daily.
 - **Primary outcome / effect size**: PIH lesions significantly lightened vs vehicle (p<0.001); ~40% reduction in lesional pigmentation by colorimetry. Retinoid dermatitis common but mild.
-- **Quality**: B (single-center RCT in skin of color, highly relevant to Korean skin phototype III–IV)
-- **Takeaway**: Best direct RCT evidence for retinoid PIH treatment — directly applicable to a Korean male prone to PIH after acne; expect mild irritation as a feature, not a failure.
+- **Quality**: B (single-center RCT in skin of color, highly relevant to Asian phototype III–IV)
+- **Takeaway**: Best direct RCT evidence for retinoid PIH treatment — directly applicable to patients with Fitzpatrick III-IV skin prone to PIH after acne; expect mild irritation as a feature, not a failure.
 
 ### 7. Kang et al. 2001 — Tazarotene multicenter RCT (pores)
 - **Citation**: Kang S, Leyden JJ, Lowe NJ, et al. Tazarotene cream for the treatment of facial photodamage: a multicenter, investigator-masked, randomized, vehicle-controlled, parallel comparison of 0.01%, 0.025%, 0.05%, and 0.1% tazarotene creams with 0.05% tretinoin emollient cream. *Arch Dermatol.* 2001;137(12):1597-1604. PMID: 11735713.
@@ -70,7 +70,7 @@
 
 ---
 
-## Clinical synthesis for the case (adult patient)
+## Clinical synthesis
 
 - **Start**: Adapalene 0.1% gel nightly (Shalita 1996, Cunliffe 1997, Stuart 2021 NMA). Add benzoyl peroxide 2.5% AM or as FDC if active inflammatory lesions.
 - **Tolerability ramp**: Start 2–3 nights/week, increase to nightly over 4–6 weeks. "Open sandwich" (moisturizer → retinoid → moisturizer) is acceptable; full sandwiching reduces bioactivity — evidence quality is C/expert-consensus only, not RCT-level.

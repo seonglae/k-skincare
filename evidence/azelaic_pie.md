@@ -1,4 +1,4 @@
-# Evidence: Azelaic Acid for Acne + PIH + PIE (adult patient, Fitzpatrick III-IV)
+# Evidence: Azelaic Acid for Acne + PIH + PIE (Fitzpatrick III-IV)
 
 ## Summary
 
@@ -34,7 +34,7 @@ Azelaic acid 15-20% is a **strong triple-target fit** for this patient: RCT evid
 - **Intervention:** AzA 20% cream BID vs vehicle.
 - **Outcome:** Significantly greater reduction in pigmentary intensity by both investigator scale and chromameter; significant global improvement at week 24.
 - **Quality:** High (Level 1b).
-- **Takeaway:** Directly applicable to a Fitzpatrick III-IV Korean male — AzA selectively inhibits hyperactive melanocytes without depigmenting normal skin (no rebound, no ochronosis risk).
+- **Takeaway:** Directly applicable to Fitzpatrick III-IV Asian skin — AzA selectively inhibits hyperactive melanocytes without depigmenting normal skin (no rebound, no ochronosis risk).
 
 ### Paper 4 — Bagherani & Smoller 2023 / Sarkar comparison (AzA 20% vs tranexamic acid 5%)
 - **Citation:** Tehranchinia Z, Saghi B, Rahimi H. A comparative study of 20% azelaic acid cream versus 5% tranexamic acid solution for the treatment of postinflammatory hyperpigmentation in patients with acne vulgaris: a single-blinded randomized clinical trial. *J Res Med Sci*. 2023;28:27. PMID: 37213446.
@@ -74,7 +74,7 @@ Azelaic acid 15-20% is a **strong triple-target fit** for this patient: RCT evid
 - **Intervention:** AzA 20% cream vs HQ 4% cream, both with broad-spectrum SPF.
 - **Outcome:** AzA 20% achieved 65% good/excellent results; **no significant difference vs HQ 4%** in overall rating, lesion size, or pigment intensity. No ochronosis or sensitization with AzA.
 - **Quality:** High (Level 1b).
-- **Takeaway:** AzA 20% matches HQ 4% on efficacy without HQ's long-term safety concerns (ochronosis, paradoxical darkening) — making it the safer long-term option for a adult who will use pigment treatment for years.
+- **Takeaway:** AzA 20% matches HQ 4% on efficacy without HQ's long-term safety concerns (ochronosis, paradoxical darkening) — making it the safer long-term option for an adult patient who will use pigment treatment for years.
 
 ---
 
@@ -86,12 +86,12 @@ Azelaic acid 15-20% is a **strong triple-target fit** for this patient: RCT evid
 - **Intervention:** AzA 15% gel BID vs AzA-free vehicle gel.
 - **Outcome:** AzA significantly reduced **both** PIE (hemoglobin index by VISIA) AND PIH (melanin, PAHPI) vs placebo at week 12; no barrier disruption (TEWL stable); patient QoL improved.
 - **Quality:** High (Level 1b — only direct PIE RCT for a topical).
-- **Takeaway:** **This is the keystone paper for this patient's case.** It is the only RCT specifically validating a topical for PIE — and it shows AzA 15% works for the exact "red bruise-like marks + brown marks" presentation described.
+- **Takeaway:** **This is the keystone paper for this patient case.** It is the only RCT specifically validating a topical for PIE — and it shows AzA 15% works for the exact "red bruise-like marks + brown marks" presentation described.
 
 ### Paper 9 — Bae-Harboe & Graber 2013 (PIE differentiation review)
 - **Citation:** Bae-Harboe YS, Graber EM. Easy as PIE (Postinflammatory Erythema). *J Clin Aesthet Dermatol*. 2013;6(9):46-47. PMC3780804.
 - **Design:** Narrative clinical review.
-- **Takeaway:** PIE blanches under **diascopy** (PIH does not); PIE is vascular not pigmentary — confirming the "appears when fatigued" pattern in this patient is consistent with PIE/vasoreactivity. First-line: topical AzA, niacinamide, vitamin C; Tier 2: PDL or IPL.
+- **Takeaway:** PIE blanches under **diascopy** (PIH does not); PIE is vascular not pigmentary — when the "appears when fatigued" pattern is present, this is consistent with PIE/vasoreactivity. First-line: topical AzA, niacinamide, vitamin C; Tier 2: PDL or IPL.
 
 ---
 
@@ -105,6 +105,8 @@ Azelaic acid 15-20% is a **strong triple-target fit** for this patient: RCT evid
 - **Quality:** High (Level 1b, Lancet).
 - **Takeaway:** Single PDL session offers meaningful inflammatory-acne benefit — relevant if AzA monotherapy plateaus.
 
+
+
 ### Paper 11 — Alharbi et al. 2025 (PDL vs brimonidine vs combo for post-acne erythema)
 - **Citation:** Alharbi MA et al. A split-face randomized comparative study of efficacy of pulsed dye laser, topical brimonidine tartrate, and their combination for treatment of post-acne erythema. *J Cosmet Dermatol*. 2025. PMID: 40833510.
 - **Design / N:** Split-face RCT, N=60, post-acne erythema patients.
@@ -115,7 +117,7 @@ Azelaic acid 15-20% is a **strong triple-target fit** for this patient: RCT evid
 
 ---
 
-## Clinical Bottom Line for This Patient
+## Clinical Bottom Line
 
 1. **Tier 1 (start now):** AzA 15% gel BID (Liu 2024 direct PIE evidence + Lowe 1998 SoC PIH evidence + Thiboutot 2003 anti-erythema evidence). Single agent covers all three concerns.
 2. **Tier 1 adjunct:** Daily broad-spectrum SPF 50, niacinamide 4-5% AM (synergistic on vascular reactivity), gentle ceramide moisturizer to offset AzA's mild stinging.

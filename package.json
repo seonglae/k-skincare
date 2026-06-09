@@ -1,5 +1,5 @@
 {
-  "name": "@seonglae/k-skincare",
+  "name": "k-skincare",
   "version": "0.1.0",
   "description": "Evidence-based K-skincare consultation skill for Claude Code. Installs via npx. Multi-language. RCT-grounded.",
   "type": "module",
@@ -8,7 +8,7 @@
   },
   "files": [
     "bin",
-    "skill",
+    "skills",
     "README.md",
     "LICENSE"
   ],

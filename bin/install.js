@@ -7,7 +7,7 @@ import { homedir } from 'node:os';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const PKG_ROOT = resolve(__dirname, '..');
-const SKILL_SRC = join(PKG_ROOT, 'skill');
+const SKILL_SRC = join(PKG_ROOT, 'skills', 'k-skincare');
 
 const args = process.argv.slice(2);
 const cmd = args[0];
@@ -83,9 +83,9 @@ Files copied:
 Next:
   1. Restart Claude Code (or run /skills to refresh discovery)
   2. Ask a skincare question in any language — skill auto-activates
-  3. Optional CLI: npx @seonglae/k-skincare-cli (separate package)
+  3. Optional CLI: npx k-skincare-cli (separate package)
 
-Uninstall: npx @seonglae/k-skincare uninstall${local ? ' --local' : ''}
+Uninstall: npx k-skincare uninstall${local ? ' --local' : ''}
 `);
 }
 

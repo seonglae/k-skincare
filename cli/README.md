@@ -1,11 +1,11 @@
-# @seonglae/k-skincare
+# k-skincare-cli
 
 Evidence-based K-skincare consultation CLI. Built with Pastel + Ink + TypeScript.
 
 ## Usage
 
 ```bash
-npx @seonglae/k-skincare
+npx k-skincare-cli
 ```
 
 Interactive prompts ask:

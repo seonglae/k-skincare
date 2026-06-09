@@ -1,6 +1,6 @@
 # Diet, Meal Timing, and Sleep Onset — Evidence Review
 
-**Patient:** adult patient in UK; habitual delayed sleep phase (~3am), wants to phase-advance.
+**Clinical context:** Adult patient with delayed sleep phase (typical onset ≥2-3am), wants to phase-advance.
 **Date:** 2026-05-18
 **Approach:** RCTs, systematic reviews, meta-analyses on diet/supplement/behavioral interventions for sleep onset latency (SOL), total sleep time (TST), and circadian phase. Verified via PubMed.
 
@@ -8,7 +8,7 @@
 
 ## Bottom Line (Top 3 Highest-Evidence Interventions)
 
-For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the strongest evidence supports a **stacked behavioural-first protocol**: (1) **morning bright light (≥2,500–10,000 lux for 30–60 min on waking)** combined with progressive sleep-schedule advancement — this is the only intervention class that meaningfully shifts the endogenous circadian phase (Sletten 2018, Saxvig 2014); (2) **caffeine cut-off ≥6 h before target bedtime** (Drake 2013 RCT showed ~1 h of total sleep lost from caffeine taken 6 h pre-bed); and (3) **glycine 3 g 30–60 min pre-bed**, the most reproducible dietary supplement signal with PSG-confirmed reductions in sleep-onset latency (Yamadera 2007, Bannai 2012). Magnesium (~17 min ↓ SOL pooled), tart cherry juice, kiwifruit, and tryptophan are useful adjuncts. **Melatonin is the gold-standard chronobiotic for DSWPD but is prescription-only in the UK** — it normally fits as 0.5 mg taken ~5–6 h before current sleep onset (i.e., ~21:00 if falling asleep at 03:00), and would be the recommended Rx add-on if behavioural measures fail (Sletten 2018).
+For an adult with delayed sleep-wake phase (typical onset ≥2-3am), the strongest evidence supports a **stacked behavioural-first protocol**: (1) **morning bright light (≥2,500–10,000 lux for 30–60 min on waking)** combined with progressive sleep-schedule advancement — this is the only intervention class that meaningfully shifts the endogenous circadian phase (Sletten 2018, Saxvig 2014); (2) **caffeine cut-off ≥6 h before target bedtime** (Drake 2013 RCT showed ~1 h of total sleep lost from caffeine taken 6 h pre-bed); and (3) **glycine 3 g 30–60 min pre-bed**, the most reproducible dietary supplement signal with PSG-confirmed reductions in sleep-onset latency (Yamadera 2007, Bannai 2012). Magnesium (~17 min ↓ SOL pooled), tart cherry juice, kiwifruit, and tryptophan are useful adjuncts. **Melatonin is the gold-standard chronobiotic for DSWPD but is prescription-only in the UK** — it normally fits as 0.5 mg taken ~5–6 h before current sleep onset (e.g. ~21:00 if onset is ~03:00), and would be the recommended Rx add-on if behavioural measures fail (Sletten 2018).
 
 ---
 
@@ -71,7 +71,7 @@ For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the st
 - *Intervention:* Isocaloric high-GI (jasmine rice, GI = 109) vs low-GI (mahatma, GI = 50) meal at 1 h vs 4 h pre-bed.
 - *Outcome:* High-GI meal **4 h before bed → SOL 9.0 ± 6.2 min** vs low-GI **17.5 ± 6.2 min (P = 0.009)**; high-GI 1 h before bed less effective than 4 h.
 - *Quality:* **B+** (clean isocaloric design; small n).
-- *Takeaway:* Eating dinner ~4 h before target bedtime, with a high-GI carb (e.g., white rice, common in Korean cuisine), halves SOL — directly applicable.
+- *Takeaway:* Eating dinner ~4 h before target bedtime, with a high-GI carb (e.g., white rice), halves SOL — directly applicable.
 
 ---
 
@@ -158,7 +158,7 @@ For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the st
 - *Design / N:* RCT; n = 116 DSWPD patients; **0.5 mg melatonin** vs placebo, both arms with behavioural sleep-wake scheduling, dosed 1 h before desired bedtime.
 - *Outcome:* Melatonin + behavioural scheduling advanced DLMO and sleep onset significantly more than placebo + scheduling; improved daytime function.
 - *Quality:* **A.**
-- *Takeaway:* In the UK, melatonin is Rx (Circadin / Slenyto / pharmacy specials). For Seonglae's profile, **0.5 mg ~5–6 h before current sleep onset (≈21:00 if onset is 03:00), advancing by 30 min per 2–3 days as schedule shifts**, would be the formal protocol if a GP/private clinician prescribes it.
+- *Takeaway:* In the UK, melatonin is Rx (Circadin / Slenyto / pharmacy specials). For this delayed sleep phase profile, **0.5 mg ~5–6 h before current sleep onset (e.g. ≈21:00 if onset is ~03:00), advancing by 30 min per 2–3 days as schedule shifts**, would be the formal protocol if a GP/private clinician prescribes it.
 
 **11.2 Saxvig IW, Wilhelmsen-Langeland A, Pallesen S, Vedaa Ø, Nordhus IH, Bjorvatn B (2014).** *A randomized controlled trial with bright light and melatonin for delayed sleep phase disorder: effects on subjective and objective sleep.* **Chronobiol Int 31(1):72–86.** PMID: 24144243. DOI: 10.3109/07420528.2013.823200.
 - *Design:* 2×2 RCT; bright light (morning 30 min) +/- melatonin in DSPD.
@@ -167,10 +167,10 @@ For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the st
 - *Takeaway:* Pair morning light (10,000 lux box or daylight walk, ≥30 min within 15 min of waking) with progressively earlier wake-time anchored to ~07:00.
 
 **11.3 Richardson C, Cain N, Bartel K, Micic G, Maddock B, Gradisar M (2018).** *A randomised controlled trial of bright light therapy and morning activity for adolescents and young adults with delayed sleep–wake phase disorder.* **Sleep Med 45:114–123.** PMID: 29680419. DOI: 10.1016/j.sleep.2018.02.001.
-- *Design / N:* RCT in young adults with DSWPD (age range overlaps Seonglae's profile).
+- *Design / N:* RCT in adolescents and young adults with DSWPD.
 - *Outcome:* Morning bright light + structured morning activity advanced sleep timing meaningfully; effect smaller without compliance.
 - *Quality:* **B+.**
-- *Takeaway:* Behavioural anchoring (wake time, get outside immediately) is necessary even with light box use.
+- *Takeaway:* Behavioural anchoring (fixed wake time, getting outside immediately) is necessary even with light box use.
 
 **11.4 Shechter A, Kim EW, St-Onge MP, Westwood AJ (2018).** *Blocking nocturnal blue light for insomnia: a randomized controlled trial.* **J Psychiatr Res 96:196–202.** PMID: 29101797. DOI: 10.1016/j.jpsychires.2017.10.015.
 - *Design / N:* RCT crossover, n = 14 insomniacs; amber-tinted glasses 2 h pre-bed × 7 nights vs clear.
@@ -180,7 +180,7 @@ For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the st
 
 ---
 
-## Practical Synthesis for Seonglae (29M, delayed sleep phase (~3am) → goal ~24:00)
+## Practical Synthesis (delayed sleep phase, adult — phase-advance from ~3am to midnight target)
 
 | Tier | Intervention | Source |
 |------|--------------|--------|
@@ -190,7 +190,7 @@ For a adult with a ~03:00 sleep-onset (delayed sleep-wake phase pattern), the st
 | 1 | **No alcohol within 4 h of bed** | He 2024 SR/MA |
 | 2 — strong supplement | **Glycine 3 g, 30 min pre-bed** | Yamadera 2007, Bannai 2012 |
 | 2 | **Magnesium glycinate 200–400 mg elemental, evening** | Abbasi 2012, Mah 2021 |
-| 2 | **Dinner ~4 h pre-bed, high-GI carb (rice)** — leverages Korean diet | Afaghi 2007 |
+| 2 | **Dinner ~4 h pre-bed, high-GI carb (e.g. white rice)** | Afaghi 2007 |
 | 3 — adjuncts | Tart-cherry concentrate 30 mL bid, or 2 kiwifruits 1 h pre-bed | Howatson 2012, Lin 2011 |
 | 3 | Amber/blue-blocker glasses + phone night-mode 2 h pre-bed | Shechter 2018 |
 | 3 | L-Tryptophan 1–3 g pre-bed (if no SSRI) | Sutanto 2022 |

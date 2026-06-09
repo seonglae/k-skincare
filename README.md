@@ -2,17 +2,23 @@
 
 Evidence-based K-skincare consultation skill for Claude Code. RCT-grounded. Multi-language.
 
-## Install (Claude Code skill)
+## Install
+
+### Option 1 — Vercel skills CLI (recommended, multi-agent: Claude Code, Cursor, Cline, Copilot, 18+)
 
 ```bash
-# Global (recommended)
-npx @seonglae/k-skincare init
-
-# Project-local
-npx @seonglae/k-skincare init --local
+npx skills add seonglae/k-skincare                                # interactive
+npx skills add seonglae/k-skincare -g -a claude-code -y           # global, non-interactive
+npx skills add seonglae/k-skincare --list                         # show all skills in repo
 ```
 
-Files copied to `~/.claude/skills/k-skincare/` (or `./.claude/skills/k-skincare/` if `--local`).
+### Option 2 — Standalone installer (Claude Code only)
+
+```bash
+npx k-skincare init             # global → ~/.claude/skills/k-skincare/
+npx k-skincare init --local     # project → ./.claude/skills/k-skincare/
+npx k-skincare uninstall        # remove
+```
 
 Restart Claude Code (or `/skills` refresh) — skill auto-activates when user asks about skincare.
 
@@ -34,7 +40,7 @@ Triggers when user mentions:
 
 ## Evidence base
 
-`skill/evidence/` — 6 peer-reviewed summary files covering:
+`skills/k-skincare/evidence/` — 6 peer-reviewed summary files covering:
 
 - Retinoid efficacy (Shalita 1996, Bagatin 2018, Kang 2005)
 - Cleanser pH (Korting 1995, Gfatter 1997)
@@ -58,13 +64,13 @@ Korean / English / Japanese / Chinese / Spanish (tested patterns). Other languag
 
 ## Companion (coming)
 
-Supplements / nutrition / sleep / cortisol / cutting → `@seonglae/k-wellness` (separate skill).
+Supplements / nutrition / sleep / cortisol / cutting → `k-wellness` (separate skill).
 
 ## Uninstall
 
 ```bash
-npx @seonglae/k-skincare uninstall          # global
-npx @seonglae/k-skincare uninstall --local  # project-local
+npx k-skincare uninstall          # global
+npx k-skincare uninstall --local  # project-local
 ```
 
 ## Interactive CLI (optional)

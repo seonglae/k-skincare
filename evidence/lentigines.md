@@ -1,8 +1,10 @@
-# Evidence: Solar Lentigines & Post-UV Hyperpigmentation (adult patient, Fitzpatrick III–IV)
+# Evidence: Solar Lentigines & Post-UV Hyperpigmentation (Fitzpatrick III–IV)
 
 ## Summary (efficacy × evidence quality × safety ranking)
 
-For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatrick III–IV Korean male, the single-best evidence-backed clearance modality is a **picosecond 532 nm Nd:YAG / KTP laser** (≥75% clearance in 90–93% of lesions in Asian-skin prospective studies, with PIH rates ~5–10% — far lower than Q-switched lasers). The strongest *topical* combination is **oral tranexamic acid 250 mg BID × 3 months** (49% mMASI reduction in a placebo-controlled RCT) layered on **topical antioxidants — 15% L-ascorbic acid + 1% α-tocopherol + 0.5% ferulic acid (CEF) every morning for prevention** plus **niacinamide 5%** and **hydroquinone 4% short-course (8–12 wk only)** for cycling depigmentation; with **continued SPF50+ PA++++** as the non-negotiable substrate. The picosecond laser is the *efficacy* winner; CEF + sunscreen is the *prevention* winner; oral TXA is the systemic add-on if topicals plateau — IPL is a reasonable lower-cost alternative if pico is not available, and Q-switched Nd:YAG is acceptable but carries the highest PIH risk in Fitzpatrick IV Asian skin.
+For new, discrete solar lentigines after acute high-UV exposure in a Fitzpatrick III–IV adult patient, the single-best evidence-backed clearance modality is a **picosecond 532 nm Nd:YAG / KTP laser** (≥75% clearance in 90–93% of lesions in Asian-skin prospective studies, with PIH rates ~5–10% — far lower than Q-switched lasers). The strongest *topical* combination is **oral tranexamic acid 250 mg BID × 3 months** (49% mMASI reduction in a placebo-controlled RCT) layered on **topical antioxidants — 15% L-ascorbic acid + 1% α-tocopherol + 0.5% ferulic acid (CEF) every morning for prevention** plus **niacinamide 5%** and **hydroquinone 4% short-course (8–12 wk only)** for cycling depigmentation; with **continued SPF50+ PA++++** as the non-negotiable substrate. The picosecond laser is the *efficacy* winner; CEF + sunscreen is the *prevention* winner; oral TXA is the systemic add-on if topicals plateau — IPL is a reasonable lower-cost alternative if pico is not available, and Q-switched Nd:YAG is acceptable but carries the highest PIH risk in Fitzpatrick IV Asian skin.
+
+
 
 ---
 
@@ -42,7 +44,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** 15% L-AA + 1% α-tocopherol + 0.5% ferulic acid (CEFer / SkinCeuticals CEF formula) vs vehicle.
 - **Outcome:** Significant reduction in erythema, sunburn cells, thymine dimers, p53; suppressed UV-induced IL-1α, IL-6, IL-8, IL-10, TNF-α.
 - **Quality grade:** High (human in-vivo, vehicle-controlled).
-- **Takeaway:** CEF works **on top of** sunscreen via a different mechanism (antioxidant scavenging rather than UV filtering) — strong rationale for daily AM use after any future beach trip and as standing maintenance to prevent new lentigines.
+- **Takeaway:** CEF works **on top of** sunscreen via a different mechanism (antioxidant scavenging rather than UV filtering) — strong rationale for daily AM use after any high-UV exposure event and as standing maintenance to prevent new lentigines.
 
 ### Paper 5 — Wu et al. 2013 (CEF in Chinese skin)
 - **Citation:** Wu Y, Zheng X, Xu XG, Li YH, Wang B, Gao XH, Chen HD, Yatskayer M, Oresajo C. Protective effects of a topical antioxidant complex containing vitamins C and E and ferulic acid against ultraviolet irradiation-induced photodamage in Chinese women. *J Drugs Dermatol*. 2013;12(4):464-468. PMID: 23652896.
@@ -50,7 +52,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** CEF antioxidant complex vs vehicle vs positive control vs negative control.
 - **Outcome:** Significant suppression of sunburn-cell formation, thymine dimer formation, p53 overexpression, and CD1a+ Langerhans cell depletion in CEF-treated skin.
 - **Quality grade:** Moderate (small N; same patient design).
-- **Takeaway:** Demonstrates CEF efficacy specifically in East-Asian skin — directly transferable evidence to a Korean Fitzpatrick III–IV patient.
+- **Takeaway:** Demonstrates CEF efficacy specifically in East-Asian skin — directly transferable evidence to a Fitzpatrick III–IV patient with similar phototype.
 
 ---
 
@@ -122,7 +124,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention:** 532 nm 750 ps Nd:YAG; 0.35 ± 0.06 J/cm² average fluence; 3–4 mm spot.
 - **Outcome:** **40/43 lesions (93.0%) ≥75% clearance after one treatment**; remaining 3 cleared with a second pass; PIH only 4.65%; mean MI improvement 77.6% (1 mo) / 76.9% (3 mo).
 - **Quality grade:** High (Level 2; well-controlled prospective in target skin type).
-- **Takeaway:** The single best efficacy/safety datapoint for a Korean Fitzpatrick III–IV patient — one to two pico sessions can clear >90% of his new lentigines with low PIH risk.
+- **Takeaway:** The single best efficacy/safety datapoint for a Fitzpatrick III–IV patient — one to two pico sessions can clear >90% of new lentigines with low PIH risk.
 
 ### Paper 13 — Vachiramon et al. 2022 (532 nm KTP vs 755 nm alexandrite pico RCT)
 - **Citation:** Vachiramon V, Namasondhi A, Anuntrangsee T, Jurairattanaporn N. Randomized, evaluator-blinded comparative study of a potassium titanyl phosphate (KTP) 532-nm picosecond laser and an alexandrite 755-nm picosecond laser for the treatment of solar lentigines in Asians. *J Cosmet Dermatol*. 2022;21(10):4370-4377. DOI: 10.1111/jocd.14831. PMID: 35129875.
@@ -130,7 +132,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** KTP 532 nm pico vs alexandrite 755 nm pico, paired.
 - **Outcome:** Both produced significant L* improvement; 755 nm alex pico **superior at 12 weeks** (>50% improvement: 25 lesions [alex] vs 19 [KTP 532]); satisfaction higher with 755 nm; adverse events similar.
 - **Quality grade:** High (Level 1b, evaluator-blinded paired RCT).
-- **Takeaway:** When both wavelengths are available in Korea, the 755 nm alexandrite pico is the slightly better single-session choice for solar lentigines in Asian skin.
+- **Takeaway:** When both wavelengths are available, the 755 nm alexandrite pico is the slightly better single-session choice for solar lentigines in Asian skin.
 
 ### Paper 14 — Chan, Shek, Yeung, Chan 2019 (532 nm pico, Hong Kong cohort)
 - **Citation:** Chan MWM, Shek SY, Yeung CK, Chan HH. A Prospective Study in the Treatment of Lentigines in Asian Skin Using 532 nm Picosecond Nd:YAG Laser. *Lasers Surg Med*. 2019;51(9):767-773. DOI: 10.1002/lsm.23103. PMID: 31115070.
@@ -150,7 +152,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** Topicals, peels, cryotherapy, PDL, IPL, QS lasers, picosecond lasers, fractional CO₂.
 - **Outcome (clearance rates):** Mequinol 2% + tretinoin 0.01% 52.6–80%+; **IPL 74.6–90%**; QS laser 36.4–76.6%; **picosecond 67.9–93.0%**; PDL 27–57%; fractional CO₂ 8–23%; cryotherapy 37–71.4%; TCA peels 12–46%. PIH lowest with PDL and IPL; cryotherapy worst.
 - **Quality grade:** High (current SR).
-- **Takeaway:** **IPL and picosecond are statistically the two highest-clearance modalities for solar lentigines**, with IPL having the better PIH profile — a strong evidence-based justification for the patient to choose IPL or pico in Korea over cryotherapy or chemical peels.
+- **Takeaway:** **IPL and picosecond are statistically the two highest-clearance modalities for solar lentigines**, with IPL having the better PIH profile — a strong evidence-based justification for choosing IPL or pico over cryotherapy or chemical peels.
 
 ---
 
@@ -162,7 +164,7 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** QS Nd:YAG (one side) vs Er:YAG micropeel (other side).
 - **Outcome:** QS Nd:YAG produced greater pigment reduction at 2 weeks (p < 0.001), but by 1 month differences narrowed (p = 0.110) due to **higher PIH in the QS Nd:YAG side**.
 - **Quality grade:** Moderate (small N, single session).
-- **Takeaway:** QS Nd:YAG works but **PIH after QS in Korean skin is a real downside** — picosecond and IPL outperform it on safety; reserve QS Nd:YAG for cases where neither pico nor IPL is accessible.
+- **Takeaway:** QS Nd:YAG works but **PIH after QS in Asian skin is a real downside** — picosecond and IPL outperform it on safety; reserve QS Nd:YAG for cases where neither pico nor IPL is accessible.
 
 ---
 
@@ -182,14 +184,14 @@ For new, discrete solar lentigines after acute intense UV exposure in a Fitzpatr
 - **Intervention vs comparator:** Moisturizer + 5% niacinamide vs moisturizer alone.
 - **Outcome:** Significant reductions in hyperpigmented spots, fine lines/wrinkles, red blotchiness, and yellowing vs control; well tolerated.
 - **Quality grade:** High (Level 1b, well-powered split-face RCT).
-- **Takeaway:** 5% niacinamide is the best-supported "anti-spot" cosmeceutical for daily AM/PM use and combines safely with vitamin C, TXA, retinoids, and sunscreen — should be in this patient's daily routine.
+- **Takeaway:** 5% niacinamide is the best-supported "anti-spot" cosmeceutical for daily AM/PM use and combines safely with vitamin C, TXA, retinoids, and sunscreen — a logical addition to the daily routine.
 
 ---
 
-## Practical Synthesis for the Patient
+## Practical Synthesis
 
 1. **Continue SPF50+ PA++++** daily, generously reapplied — non-negotiable, the substrate for everything else.
 2. **AM:** 15% L-AA + 1% α-tocopherol + 0.5% ferulic acid (CEF-class) serum → 5% niacinamide → sunscreen. Evidence: Lin 2003, Murray/Pinnell 2008, Wu 2013, Hakozaki 2002, Bissett 2004.
 3. **PM (8–12 wk cycle):** HQ 4% spot-only on individual lentigines (Espinal-Pérez 2004, Jarratt 2004, Makino 2013) — *or*, preferred, switch HQ for **topical TXA 3–5%** + retinoid (mequinol/tretinoin or tretinoin 0.025%) per Jarratt 2004 + Chung 2016. Avoid HQ >12 weeks continuously.
 4. **If topicals plateau at 12 weeks:** add **oral TXA 250 mg BID × 12 weeks** under MD supervision (screen thromboembolic risk) — Del Rosario 2018, Bala 2018, Calacattawi 2024.
-5. **Definitive clearance:** 1–2 sessions of **picosecond 532 nm Nd:YAG or 755 nm alexandrite** at a Korean derm clinic (Negishi 2018: 93% ≥75% clearance, PIH 4.7%; Vachiramon 2022: 755 nm slightly superior to 532 nm). Use peri-procedural topical TXA + niacinamide to prevent rebound (Chung 2016). **IPL is the acceptable fallback** with comparable clearance (Mardani 2025 SR: 74.6–90%) and lower PIH risk; avoid QS Nd:YAG and cryotherapy as first-line in his skin type.
+5. **Definitive clearance:** 1–2 sessions of **picosecond 532 nm Nd:YAG or 755 nm alexandrite** at a dermatology clinic (Negishi 2018: 93% ≥75% clearance, PIH 4.7%; Vachiramon 2022: 755 nm slightly superior to 532 nm). Use peri-procedural topical TXA + niacinamide to prevent rebound (Chung 2016). **IPL is the acceptable fallback** with comparable clearance (Mardani 2025 SR: 74.6–90%) and lower PIH risk; avoid QS Nd:YAG and cryotherapy as first-line in Fitzpatrick III-IV Asian skin.

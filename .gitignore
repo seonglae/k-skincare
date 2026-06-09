@@ -11,6 +11,11 @@ routine/evening.md
 /cases/
 /private/
 
+# Claude Code local context (per-clone, never push)
+CLAUDE.md
+.claude/
+.claude.local.json
+
 # OS
 .DS_Store
 Thumbs.db

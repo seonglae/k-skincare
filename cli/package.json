@@ -1,7 +1,7 @@
 {
-  "name": "@seonglae/k-skincare-cli",
+  "name": "k-skincare-cli",
   "version": "0.1.0",
-  "description": "Standalone interactive CLI for k-skincare (separate from skill installer @seonglae/k-skincare)",
+  "description": "Standalone interactive CLI for k-skincare (separate from skill installer k-skincare)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

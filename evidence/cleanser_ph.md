@@ -60,7 +60,7 @@
 - **Design**: Review with mechanistic data.
 - **Key finding**: Free fatty acids (not ceramides) are the most easily extracted SC lipid class by surfactants. Saponified soap bars (carboxylate surfactants) have higher irritation potential than isethionate/ether-sulfate syndets.
 - **Quality**: **B** (mechanistic review).
-- **Takeaway**: Soap chemistry (saponified fatty acid + KOH — exactly alkaline saponified's structure) is specifically the class most prone to extracting the patient's own SC fatty acids.
+- **Takeaway**: Soap chemistry (saponified fatty acid + KOH) is specifically the class most prone to extracting the patient's own SC fatty acids.
 
 ### 8. Di Nardo et al. 1996 — *Ceramides predict surfactant susceptibility*
 - **Citation**: Di Nardo A, Sugino K, Wertz P, Ademola J, Maibach HI. Sodium lauryl sulfate (SLS) induced irritant contact dermatitis: a correlation study between ceramides and in vivo parameters of irritation. *Contact Dermatitis* 1996;35(2):86–91. DOI: 10.1111/j.1600-0536.1996.tb02296.x. PMID: 8917825.

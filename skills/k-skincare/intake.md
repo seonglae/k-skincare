@@ -15,7 +15,8 @@ Required to generate any plan.
    - Probe: "Does T-zone get oily by midday? Cheeks tight after wash?"
 
 3. **Top 3 skin concerns ranked**:
-   - Common: 여드름/acne, 주근깨/freckles, 다크서클/dark circles, 모공/pores, 잔주름/wrinkles, 자국/scars, 색소/pigmentation, 건조/dryness, 민감/redness, 칙칙/dullness
+   - Common: acne, freckles, dark circles, pores, wrinkles, scars, pigmentation, dryness, redness, dullness
+   - Accept user's language; map to English via `references/language-handling.md` lookup table
    - Ask for priority order
 
 4. **Current products** (each step, brand if known):

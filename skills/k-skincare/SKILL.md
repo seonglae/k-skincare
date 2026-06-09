@@ -8,7 +8,7 @@ description: Evidence-based K-skincare consultation. Use when user asks for skin
 ## When to invoke
 
 User mentions any of:
-- Skin concerns: 여드름/acne, 주근깨/freckles, 다크서클/dark circles, 모공/pores, 잔주름/wrinkles, 자국/scars, 색소/pigmentation, 건조/dryness, 민감/sensitivity
+- Skin concerns: acne, freckles, dark circles, pores, wrinkles, scars, pigmentation, dryness, sensitivity (any language — see `references/language-handling.md` for translation table)
 - Product requests: cleanser, toner, serum, moisturizer, SPF, retinoid, AHA/BHA
 - Routine building: AM, PM, weekly, retinoid ramp-up
 - Korean derm procedures: pico laser, Nd:YAG, PDL, IPL, fractional, MTS

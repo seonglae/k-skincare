@@ -1,6 +1,6 @@
 # Ashwagandha (Withania somnifera) — Evidence Review
 
-**Patient context:** adult patient, stress, hyperventilation, late sleep onset (~3am), fatigue. Considering KSM-66 ashwagandha.
+**Clinical context:** Adult patient with stress, hyperventilation, delayed sleep phase (typical onset ≥2-3am), fatigue. Considering KSM-66 ashwagandha.
 
 ---
 
@@ -11,7 +11,7 @@ KSM-66 is a full-spectrum, root-only ashwagandha extract standardized to ≥5% w
 
 ### (b) Who should take it
 - Adults with chronic perceived stress (PSS ≥ 14–20), anxious-but-functional profile
-- Late sleep-onset / "racing mind" insomnia with normal sleep architecture (good fit for the patient's 3am onset)
+- Late sleep-onset / "racing mind" insomnia with normal sleep architecture (good fit for delayed sleep phase with typical onset ≥2-3am)
 - Subclinical hypothyroidism (TSH 4.5–10) with euthyroid T4
 - Resistance-training men wanting modest strength/recovery gains
 - Elevated morning cortisol or burnout-pattern fatigue
@@ -40,7 +40,7 @@ KSM-66 is a full-spectrum, root-only ashwagandha extract standardized to ≥5% w
 | **Shoden** | Root + leaf | ≥35% | Cortisol, DHEA-S (Lopresti 2019) | Very high potency, 120–240 mg dose |
 | **Generic** | Variable | Unstandardized | None | Heavy-metal contamination risk (lead in Indian Ayurvedic products); skip |
 
-Brand matters because (i) clinical trial doses were specific to standardized extracts, (ii) withanolide content varies 10-fold across commercial powders, and (iii) most hepatotoxicity case reports involve mixed/unbranded formulations or leaf-containing extracts. **For this patient, KSM-66 600 mg/day is the most evidence-aligned choice.**
+Brand matters because (i) clinical trial doses were specific to standardized extracts, (ii) withanolide content varies 10-fold across commercial powders, and (iii) most hepatotoxicity case reports involve mixed/unbranded formulations or leaf-containing extracts. **For this patient profile, KSM-66 600 mg/day is the most evidence-aligned choice.**
 
 ---
 
@@ -91,7 +91,7 @@ Brand matters because (i) clinical trial doses were specific to standardized ext
 - **Intervention:** KSM-66 300 mg BID vs placebo; actigraphy used.
 - **Outcomes:** Sleep onset latency reduced (29.0 vs 33.9 min, p=0.019); sleep efficiency 75.6→83.5% (p<0.05); PSQI and HAM-A both improved (p<0.05). Well tolerated.
 - **Quality:** **B** (small N; Cureus).
-- **Takeaway:** Best direct evidence for the patient's specific complaint (late sleep onset).
+- **Takeaway:** Best direct evidence for late sleep onset complaint.
 
 ### 7. Langade et al. 2020 — Ashwagandha, sleep in healthy + insomnia (J Ethnopharmacol)
 - **Citation:** Langade D, Thakare V, Kanchi S, Kelgane S. *J Ethnopharmacol.* 2021;264:113276. DOI: 10.1016/j.jep.2020.113276. PMID: 32818573.
@@ -149,6 +149,6 @@ Brand matters because (i) clinical trial doses were specific to standardized ext
 - No KSM-66 RCT exists for trials longer than ~12 weeks; long-term safety beyond 3 months is inferred from open-label extensions and post-marketing surveillance, not RCTs.
 - Sharma "2018" thyroid paper has an online 2017 / print 2018 split — both dates appear in citations.
 
-## Bottom line for this patient
+## Bottom line for this patient profile
 
-A 12-week trial of **KSM-66 300 mg BID with meals** is well-justified by the evidence for his stress + late sleep onset + fatigue profile. Get baseline ALT/AST + TSH first. Stop and reassess at week 12, or sooner with any jaundice/RUQ symptoms. If subclinical hypothyroid is incidentally found, the thyrotropic effect is a feature; if he has any autoimmune family history, do TPO antibodies first.
+A 12-week trial of **KSM-66 300 mg BID with meals** is well-justified by the evidence for a stress + late sleep onset + fatigue profile. Get baseline ALT/AST + TSH first. Stop and reassess at week 12, or sooner with any jaundice/RUQ symptoms. If subclinical hypothyroid is incidentally found, the thyrotropic effect is a feature; with any autoimmune family history, do TPO antibodies first.

@@ -1,6 +1,6 @@
 # Diet, Nutrition & Eye Fatigue / Digital Eye Strain / Dry Eye — Evidence Review
 
-**Patient:** adult patient, UK, occasional blurred vision when fatigued, heavy screen use, already on lutein.
+**Clinical context:** Adult patient with occasional blurred vision when fatigued, heavy screen use, already on lutein.
 
 ## Bottom line (2-sentence summary)
 
@@ -16,7 +16,7 @@ The only dietary interventions with replicated RCT evidence for digital eye stra
 - **Outcomes:** MPOD, contrast sensitivity, disability glare, photostress recovery, eye strain, fatigue, headache, sleep quality.
 - **Effect:** Significant improvement in **all** visual performance measures and ~30% reduction in eye strain, eye fatigue, and headache frequency vs placebo (p<0.05 across measures).
 - **Quality:** B (small N, industry-related funding, but pre-specified outcomes and double-blind).
-- **Takeaway:** Strongest single RCT directly targeting the user's exact profile (young, high screen use). Justifies 10–20 mg lutein + 2–4 mg zeaxanthin daily.
+- **Takeaway:** Strongest single RCT directly targeting this profile (young adult, high screen use). Justifies 10–20 mg lutein + 2–4 mg zeaxanthin daily.
 
 ## 2. Ma 2016 / Zhang 2021 — Lutein/zeaxanthin meta-analysis on MPOD and visual function
 
@@ -33,7 +33,7 @@ The only dietary interventions with replicated RCT evidence for digital eye stra
 - **Intervention:** EPA 360 mg + DHA 240 mg daily vs olive-oil placebo.
 - **Outcomes / Effect:** Symptom score 8.0→3.9 (omega-3) vs 7.5→6.8 (placebo); TBUT 11.7→15.0 s vs 11.5→12.0 s; Schirmer modestly improved.
 - **Quality:** B (large, double-blind, but single region, modest dose).
-- **Takeaway:** In the specific niche of screen-driven dry eye (closest match to the user), omega-3 looks helpful. Note the dose is *small* (600 mg combined EPA+DHA) — supports food-first salmon/mackerel 2–3×/week rather than mega-doses.
+- **Takeaway:** In the specific niche of screen-driven dry eye, omega-3 looks helpful. Note the dose is *small* (600 mg combined EPA+DHA) — supports food-first salmon/mackerel 2–3×/week rather than mega-doses.
 
 ## 4. DREAM Trial 2018 — Omega-3 for established dry eye (definitive negative)
 
@@ -62,7 +62,7 @@ The only dietary interventions with replicated RCT evidence for digital eye stra
 - **Intervention arms:** Placebo / L10 + Z2 mg / DHA 350 + EPA 650 mg / both.
 - **Effect on AMD progression:** L+Z HR 0.90 (p=0.12); DHA+EPA HR 0.97 (p=0.70); combined HR 0.89 (p=0.10). In low-dietary-L+Z subgroup, L+Z lowered progression risk.
 - **Quality:** A (large, NIH-funded).
-- **Takeaway:** AMD-specific and not applicable to a adult. Often misquoted by supplement brands. Use as a *dose anchor* (L 10 mg, Z 2 mg) — not as evidence the formula prevents anything in young eyes.
+- **Takeaway:** AMD-specific and not applicable to a young adult. Often misquoted by supplement brands. Use as a *dose anchor* (L 10 mg, Z 2 mg) — not as evidence the formula prevents anything in young eyes.
 
 ## 7. Walsh 2012 — Whole-body hydration and dry eye
 
@@ -70,7 +70,7 @@ The only dietary interventions with replicated RCT evidence for digital eye stra
 - **Design / N:** Cross-sectional, 111 adults (mean age 77).
 - **Effect:** Dry-eye subjects had higher plasma osmolality (Δ ~11 mOsm/kg, p=0.004, effect size d=0.83) — i.e., they were measurably under-hydrated. A 48-h rehydration protocol dropped both plasma and tear osmolarity.
 - **Quality:** B (observational + small intervention, replicated mechanism).
-- **Takeaway:** Drink water. Cheapest intervention in this entire document. Target pale-yellow urine, ~2 L/day for a 29M.
+- **Takeaway:** Drink water. Cheapest intervention in this entire document. Target pale-yellow urine, ~2 L/day for an adult.
 
 ## 8. Singh / Cochrane 2023 — Blue-light filtering glasses (negative)
 
@@ -89,7 +89,7 @@ The only dietary interventions with replicated RCT evidence for digital eye stra
 
 ## 10. Vitamin A / carotenoids from food
 
-Whole-food sources of pre-formed vitamin A (eggs, dairy) and provitamin-A carotenoids (sweet potato, carrots, spinach, kale, butternut squash) underpin rhodopsin function. **Frank vitamin A deficiency** causes night blindness and xerophthalmia, but this is essentially absent in UK diets. Lutein and zeaxanthin co-travel with dark leafy greens (spinach, kale) and egg yolks (high bioavailability). Recommendation: 1 serving leafy greens + 1 egg daily covers this without any pill.
+Whole-food sources of pre-formed vitamin A (eggs, dairy) and provitamin-A carotenoids (sweet potato, carrots, spinach, kale, butternut squash) underpin rhodopsin function. **Frank vitamin A deficiency** causes night blindness and xerophthalmia, but this is essentially absent in modern Western diets. Lutein and zeaxanthin co-travel with dark leafy greens (spinach, kale) and egg yolks (high bioavailability). Recommendation: 1 serving leafy greens + 1 egg daily covers this without any pill.
 
 ## 11. 20-20-20 Rule — modest, requires adherence
 
@@ -118,13 +118,13 @@ These are the levers that out-perform any capsule for digital eye strain. Refere
 
 ---
 
-## Summary recommendation for this patient
+## Summary recommendation
 
 1. **Keep the lutein** (strongest evidence, matches profile); 10–20 mg lutein + 2 mg zeaxanthin daily with a fatty meal. Add astaxanthin 4–6 mg/day if accommodation-type fatigue (focusing strain) is dominant — 4-week trial. Evidence grade B.
 2. **Food first for omega-3:** oily fish 2–3×/week (salmon, mackerel, sardines). Skip the 3 g fish-oil capsules — DREAM was negative.
 3. **Hydration + leafy greens + eggs daily** — cheap, no downside.
 4. **Behavioural fixes first**: get a refraction check, fix monitor ergonomics, install a 20-20-20 timer, practise conscious blinking, manage room humidity. These plausibly beat any supplement.
-5. **Skip:** blue-light blocking glasses, bilberry pills, AREDS2 formulas (designed for elderly AMD patients, not adults).
+5. **Skip:** blue-light blocking glasses, bilberry pills, AREDS2 formulas (designed for elderly AMD patients, not young adults).
 
 ---
 

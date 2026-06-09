@@ -1,6 +1,6 @@
 # Strong-smelling Flatulence: Dietary Causes & Interventions
 
-**Patient context:** adult patient, complains of malodorous (not necessarily voluminous) flatus, suspects dietary cause.
+**Clinical context:** Adult patient complaining of malodorous (not necessarily voluminous) flatus, suspects dietary cause. Includes a Korean-diet-specific notes section because of relevance to fermented/cruciferous/sulfur-rich staples.
 
 ---
 
@@ -88,7 +88,7 @@ Malodorous flatus is overwhelmingly driven by colonic **hydrogen sulfide (H2S)**
 ## Diagnostic Flowchart
 
 ```
-Strong-smelling flatus, 29M, Korean diet
+Strong-smelling flatus, adult patient
             │
             ▼
 [Step 1] Diet diary 7 days — quantify

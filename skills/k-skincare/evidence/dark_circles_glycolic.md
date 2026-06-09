@@ -1,13 +1,13 @@
 # Periorbital Pigmentary Dark Circles + Long-Term Glycolic Acid Safety
 
-**Patient:** adult patient (Fitzpatrick III-IV), brown linear "pigmentary type" dark circles; 10-yr daily use of 8% glycolic acid AHA gel (Paula's Choice).
+**Clinical context:** Adult patient, Fitzpatrick III-IV, brown linear "pigmentary type" dark circles; chronic (10+ yr) daily use of 8% glycolic acid AHA gel.
 **Evidence base:** 12 peer-reviewed papers (3 systematic reviews, 3 RCTs, 2 mechanistic studies, 3 cohort/review, 1 phototox cell study). DOIs/PMIDs verified via PubMed eutils (2026-05-18).
 
 ---
 
 ## Bottom line (4 sentences)
 
-For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), evidence supports starting with **topical depigmenting agents** (glycolic peels beat 15% lactic and 20% vit C in the only head-to-head RCT — Dayal 2016, ~73% achieving >50% improvement) and adding **low-fluence Q-switched 1064 nm Nd:YAG toning** if topicals plateau — the safest laser modality for Fitz IV-V skin, whereas 532 nm picosecond KTP and thulium *worsened* PIH in Asian skin (AlRamthan 2024). Hyaluronic-acid filler is reserved for true tear-trough shadow (no shadow on stretch test → not your indication); systematic reviews confirm topicals/peels/lasers as first-line for pigment-dominant dark circles (Michelle 2021, Park 2024). On the glycolic question, **10 years of daily 8% home-use is supported by safety data**: at cosmetic concentrations AHAs do not compromise barrier function long-term (Fartasch 1997, Berardesca 1997) and chronic-peel reviews report no telangiectasia/atrophy — but glycolic **does increase UV photosensitivity** (Kaidbey 2003: lowered MED, increased sunburn cells; fully reversed within 1 wk of stopping), so daily broad-spectrum SPF 50 is non-negotiable and a 1-2 wk taper is reasonable if he wants to stop.
+For an adult patient with **pigmentary-type** periorbital hyperpigmentation (POH) in Fitzpatrick III-IV skin, evidence supports starting with **topical depigmenting agents** (glycolic peels beat 15% lactic and 20% vit C in the only head-to-head RCT — Dayal 2016, ~73% achieving >50% improvement) and adding **low-fluence Q-switched 1064 nm Nd:YAG toning** if topicals plateau — the safest laser modality for Fitz IV-V skin, whereas 532 nm picosecond KTP and thulium *worsened* PIH in Asian skin (AlRamthan 2024). Hyaluronic-acid filler is reserved for true tear-trough shadow (no shadow on stretch test → not the indication); systematic reviews confirm topicals/peels/lasers as first-line for pigment-dominant dark circles (Michelle 2021, Park 2024). On the glycolic question, **long-term daily 8% home-use is supported by safety data**: at cosmetic concentrations AHAs do not compromise barrier function long-term (Fartasch 1997, Berardesca 1997) and chronic-peel reviews report no telangiectasia/atrophy — but glycolic **does increase UV photosensitivity** (Kaidbey 2003: lowered MED, increased sunburn cells; fully reversed within 1 wk of stopping), so daily broad-spectrum SPF 50 is non-negotiable and a 1-2 wk taper is reasonable if discontinuing.
 
 ---
 
@@ -42,7 +42,7 @@ For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), 
 - **Intervention / comparator:** All published interventions in this subgroup.
 - **Outcome / effect size:** Higher-Fitz patients have **elevated PIH risk from aggressive lasers and KTP/picosecond wavelengths**; supports topicals (vit C, kojic, retinoids, tranexamic) and low-fluence 1064 nm Nd:YAG as safer first-lines.
 - **Quality:** Moderate-high.
-- **Takeaway:** Korean Fitz III-IV → conservative laser settings; topicals carry the lowest PIH risk.
+- **Takeaway:** Asian Fitz III-IV → conservative laser settings; topicals carry the lowest PIH risk.
 
 ### A5. Dayal S, Sahu P, Jain VK, Khetri S. Clinical efficacy and safety of 20% glycolic peel, 15% lactic peel, and topical 20% vitamin C in constitutional periorbital melanosis: a comparative study. *J Cosmet Dermatol.* 2016;15(4):367-373. (PMID: 27380862; DOI: 10.1111/jocd.12255)
 
@@ -76,6 +76,8 @@ For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), 
 - **Quality:** Moderate (retrospective).
 - **Takeaway:** Filler treats **shadow**, not **pigment** — only if dark circle disappears on stretch test. For pure pigmentary type, topicals/peels/laser, not filler.
 
+
+
 ---
 
 ## Part B — Long-term Topical Glycolic Acid Safety
@@ -86,11 +88,11 @@ For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), 
 - **Intervention / comparator:** 4% GA vs vehicle, forearm.
 - **Outcome / effect size:** Desmosomal breakdown **confined to outermost layer**; deeper SC desmosomes unaffected, lamellar bodies + intercellular lipid bilayers intact, **TEWL unchanged**.
 - **Quality:** High (EM ultrastructure).
-- **Takeaway:** At low cosmetic concentrations, GA exfoliates **without breaking the barrier** — basis for safety of 10 yrs daily 8%.
+- **Takeaway:** At low cosmetic concentrations, GA exfoliates **without breaking the barrier** — basis for safety of long-term daily 8% use.
 
 ### B2. Berardesca E, Distante F, Vignoli GP, et al. Alpha hydroxyacids modulate stratum corneum barrier function. *Br J Dermatol.* 1997;137(6):934-8. (PMID: 9470910)
 
-- **Design / N:** RCT randomized sites, n=11, 4 wks; **8% AHA** (matches patient's gel).
+- **Design / N:** RCT randomized sites, n=11, 4 wks; **8% AHA**.
 - **Intervention / comparator:** Four 8% AHAs (glycolic, lactic, tartaric, gluconolactone) vs vehicle; SLS challenge wk 4.
 - **Outcome / effect size:** Baseline TEWL unchanged across all AHAs. Post-SLS: gluconolactone/tartaric reduced TEWL vs vehicle (P<0.01) — partially *protective*. GA neutral.
 - **Quality:** Moderate-high (RCT).
@@ -102,7 +104,7 @@ For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), 
 - **Intervention / comparator:** 10% GA (pH 3.5) vs placebo.
 - **Outcome / effect size:** GA significantly **increased sunburn-cell formation** and **lowered MED** (UV-sensitized skin). CPDs trended up, not significant. **Effect fully reversed within 1 week of stopping GA.**
 - **Quality:** High (RCT, double-blinded, objective biomarkers).
-- **Takeaway:** Most important safety finding for the patient — **GA = real photosensitizer**; 10 years daily without strict SPF = cumulative photodamage risk. Reversible 1 week after stopping; daily SPF mandatory while continuing.
+- **Takeaway:** Most important safety finding — **GA = real photosensitizer**; long-term daily use without strict SPF = cumulative photodamage risk. Reversible 1 week after stopping; daily SPF mandatory while continuing.
 
 ### B4. Lai WW, Hsiao YP, Chung JG, et al. Synergistic phototoxic effects of glycolic acid in human keratinocytes (HaCaT). *J Dermatol Sci.* 2011;64(3):191-8. (PMID: 21993420; DOI: 10.1016/j.jdermsci.2011.09.001)
 
@@ -130,9 +132,9 @@ For a Korean male with **pigmentary-type** periorbital hyperpigmentation (POH), 
 
 ## Recommendations
 
-**Dark circles (pigmentary, Fitz III-IV Korean):** (1) Confirm subtype via Wood's lamp + stretch test. (2) Topical stack: AM vit C 10-20% + SPF 50; PM tranexamic acid 5% or niacinamide 5% +/- retinoid 0.025% (alternate with 8% GA). Expect ~30-50% improvement at 12 wks. (3) If plateau: add **low-fluence 1064 nm QS Nd:YAG toning** (6 sessions q2-4w); avoid 532 nm KTP, picosecond KTP, IPL, thulium. (4) Skip filler unless documented tear trough.
+**Dark circles (pigmentary, Fitz III-IV Asian skin):** (1) Confirm subtype via Wood's lamp + stretch test. (2) Topical stack: AM vit C 10-20% + SPF 50; PM tranexamic acid 5% or niacinamide 5% +/- retinoid 0.025% (alternate with 8% GA). Expect ~30-50% improvement at 12 wks. (3) If plateau: add **low-fluence 1064 nm QS Nd:YAG toning** (6 sessions q2-4w); avoid 532 nm KTP, picosecond KTP, IPL, thulium. (4) Skip filler unless documented tear trough.
 
-**Glycolic acid (10 yrs daily 8%):** (1) Long-term safety supported (Fartasch, Berardesca, Sharad). (2) Daily SPF 50 broad-spectrum mandatory (Kaidbey RCT — photosensitivity real, fully reversible 1 wk post-stop). (3) If stopping: 1-2 wk every-other-day taper (no rebound documented). (4) If barrier falters: switch to PHA gluconolactone — barrier-protective per Berardesca 1997.
+**Glycolic acid (long-term daily 8%):** (1) Long-term safety supported (Fartasch, Berardesca, Sharad). (2) Daily SPF 50 broad-spectrum mandatory (Kaidbey RCT — photosensitivity real, fully reversible 1 wk post-stop). (3) If stopping: 1-2 wk every-other-day taper (no rebound documented). (4) If barrier falters: switch to PHA gluconolactone — barrier-protective per Berardesca 1997.
 
 ---
 

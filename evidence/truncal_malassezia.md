@@ -1,10 +1,10 @@
 # Evidence: Truncal/Body Acne and Malassezia Folliculitis
 
-**Patient context:** adult patient, primary complaint = acne on ears and posterior neck/scalp with occasional cheek/perioral involvement. Uses fragranced moisturizing moisturizing shampoo, silicone-heavy leave-in hair serum (leave-in hair serum), and fragranced limonene-containing body wash (SLS + essential oils).
+**Clinical context:** Adult patient with acne on ears and posterior neck/scalp with occasional cheek/perioral involvement. Product history includes fragranced moisturizing shampoo, leave-in hair serum (silicone-heavy), and fragranced body wash with limonene (SLS + essential oils).
 
 ## Bottom line (2-sentence summary)
 
-The lesion pattern — itchy, monomorphic papules/pustules concentrated on **scalp/hairline, posterior neck, and ears** in an Asian male using leave-in silicone-rich hair products — fits **Malassezia (Pityrosporum) folliculitis far better than classic acne vulgaris**, with Paichitrojjana 2022 showing scalp/hairline lesions confer an 8.89× and upper-back lesions a 9.17× higher likelihood of MF in clinically diagnosed "acne" patients. **Highest-ROI first move:** swap moisturizing shampoo for **ketoconazole 2% shampoo** (Nizoral) used as a 5-minute scalp + neck + chest contact wash 2–3×/week, AND wash face *last* in the shower after rinsing hair products — these two zero-cost changes target the most likely mechanism (MF + hair-product occlusion) before any prescription tier.
+The lesion pattern — itchy, monomorphic papules/pustules concentrated on **scalp/hairline, posterior neck, and ears** in an adult using leave-in silicone-rich hair products — fits **Malassezia (Pityrosporum) folliculitis far better than classic acne vulgaris**, with Paichitrojjana 2022 showing scalp/hairline lesions confer an 8.89× and upper-back lesions a 9.17× higher likelihood of MF in clinically diagnosed "acne" patients. **Highest-ROI first move:** swap moisturizing shampoo for **ketoconazole 2% shampoo** (Nizoral) used as a 5-minute scalp + neck + chest contact wash 2–3×/week, AND wash face *last* in the shower after rinsing hair products — these two zero-cost changes target the most likely mechanism (MF + hair-product occlusion) before any prescription tier.
 
 ---
 
@@ -21,7 +21,7 @@ The lesion pattern — itchy, monomorphic papules/pustules concentrated on **sca
   - Distribution in MF+: forehead 83.7%, cheeks 71.2%, **upper back 62.0%**, **scalp/hairline 59.8%**.
   - Itch: 35.9% MF+ vs 5.7% MF-.
 - **Quality:** B+ (large prospective, validated stain, Asian cohort — directly applicable).
-- **Takeaway:** In an Asian patient with scalp/hairline + neck/back lesions, pre-test probability of MF is high enough that empiric antifungal trial is justified before chasing acne therapy.
+- **Takeaway:** In an Asian-skin patient with scalp/hairline + neck/back lesions, pre-test probability of MF is high enough that empiric antifungal trial is justified before chasing acne therapy.
 
 ### Rubenstein & Malerich 2014 (clinical review)
 
@@ -105,12 +105,12 @@ The lesion pattern — itchy, monomorphic papules/pustules concentrated on **sca
 - **Design / N:** Single-arm, 8 weeks, N=27 (mean age 21.5).
 - **Outcomes:** **70% improved truncal PGA**, **52% improved facial IGA**, 74% subject-reported improvement.
 - **Quality:** C (no control, sponsor-linked).
-- **Takeaway:** Direct evidence that **switching hair products alone** — without changing skincare — reduces both truncal and facial acne. Supports replacing the silicone-rich silicone-heavy serum and moisturizing shampoo as a discrete intervention.
+- **Takeaway:** Direct evidence that **switching hair products alone** — without changing skincare — reduces both truncal and facial acne. Supports replacing silicone-rich leave-in serums and moisturizing shampoos as a discrete intervention.
 
 ### Pomade acne — classic literature
 
 - Plewig G, Fulton JE, Kligman AM. Pomade acne. *Arch Dermatol*. 1970;101(5):580–584. — Original description: closed comedones along hairline / temples / behind ears from petrolatum-, mineral-oil-, lanolin-based hair products. Effect class: causal (rabbit-ear comedogenicity assay + clinical reversal on discontinuation).
-- **Takeaway:** The patient's leave-in hair serum + behind-ear lesion distribution is the textbook pomade-acne phenotype. Silicones (dimethicone, cyclopentasiloxane) and emollient oils in "rich" hair products migrate to scalp margin, ears, posterior neck.
+- **Takeaway:** Leave-in hair serum use + behind-ear lesion distribution is the textbook pomade-acne phenotype. Silicones (dimethicone, cyclopentasiloxane) and emollient oils in "rich" hair products migrate to scalp margin, ears, posterior neck.
 
 ---
 
@@ -126,9 +126,9 @@ The lesion pattern — itchy, monomorphic papules/pustules concentrated on **sca
 
 ---
 
-## Recommended sequence for this patient (evidence-weighted)
+## Recommended sequence (evidence-weighted)
 
-1. **Week 0 (free, immediate):** Switch shower order to shampoo → conditioner → body → face *last*. Replace silicone-heavy Perfect Serum (silicone-rich leave-in) with a water-based, silicone-free styling product or omit. (Mechanistic + Rubin 2021)
+1. **Week 0 (free, immediate):** Switch shower order to shampoo → conditioner → body → face *last*. Replace silicone-rich leave-in hair serum with a water-based, silicone-free styling product or omit. (Mechanistic + Rubin 2021)
 2. **Week 0–4 (empiric MF trial):** Ketoconazole 2% shampoo (Nizoral) as a wash on scalp + hairline + posterior neck + ears + chest, lather, leave 5 minutes, rinse. 3×/week. (Abdel-Razek 1995, Suzuki 2016, Prindaville 2018)
 3. **If still active after 4 weeks**, add a BHA body wash (2% salicylic acid) for chest/back, **and** see a dermatologist for methylene-blue / KOH confirmation and possible oral itraconazole. (Towersey 2023, Paichitrojjana 2022)
 4. **Avoid first-line BPO** on these sites until MF is excluded — BPO can flare yeast folliculitis by disrupting bacterial competitors. (Mechanistic, supported by Prindaville 2018 pattern of antibiotic-treated "acne" turning out to be MF.)

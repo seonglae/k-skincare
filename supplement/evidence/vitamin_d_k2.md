@@ -1,6 +1,6 @@
-# Vitamin D3 + K2 — Evidence Review for a adult patient Male in the UK
+# Vitamin D3 + K2 — Evidence Review
 
-**Patient context:** adult Korean male, London (~51 °N), Fitzpatrick III–IV skin, minimal outdoor exposure, complaints of fatigue and stress. Cutaneous vitamin D synthesis is essentially zero from October to March at this latitude, and melanin further attenuates UVB conversion year-round.
+**Clinical context:** Adult patient, high-latitude population (e.g. ~51 °N), Fitzpatrick III–IV skin, minimal outdoor exposure, complaints of fatigue and stress. Cutaneous vitamin D synthesis is essentially zero from October to March at this latitude, and melanin further attenuates UVB conversion year-round.
 
 ## Bottom line
 
@@ -20,9 +20,9 @@
 
 **Citation:** Park JH, Hong IY, Chung JW, Choi HS. *Vitamin D status in South Korean population: Seven-year trend from the KNHANES.* Medicine (Baltimore). 2018;97(26):e11032. PMID: 29952942.
 **Design / N:** Serial cross-sectional, n ≈ 22,000 (KNHANES 2008–2014).
-**Outcome / effect:** 25(OH)D <50 nmol/L in **65.7%** of males, **76.7%** of females; deficiency was highest in **20–34-year-olds** (76.8% male, 84.9% female) — the patient's demographic. Trend is worsening (51.8% → 75.2% in males, 2008→2014).
+**Outcome / effect:** 25(OH)D <50 nmol/L in **65.7%** of males, **76.7%** of females; deficiency was highest in **20–34-year-olds** (76.8% male, 84.9% female). Trend is worsening (51.8% → 75.2% in males, 2008→2014).
 **Quality:** A (national survey, large N).
-**Takeaway:** Young Korean males have the **highest** deficiency rates of any age band even in sunny Korea — the patient's baseline risk is already elevated before UK latitude is considered.
+**Takeaway:** Young Korean males have the **highest** deficiency rates of any age band even in sunny Korea — baseline risk is already elevated for this demographic before high-latitude residence is considered.
 
 ## 3. Webb et al. 2018 — Pigmented Skin at UK Latitudes
 
@@ -46,7 +46,7 @@
 **Design / N:** RCT, healthy men, 0 / 1,000 / 5,000 / 10,000 IU/day for ~20 weeks.
 **Outcome / effect:** Each 1,000 IU/day raised 25(OH)D by ~**10 nmol/L**, curvilinear. 1,000 IU insufficient for many to reach 75 nmol/L; 2,000 IU reached repletion in most. No toxicity at ≤10,000 IU/day.
 **Quality:** A.
-**Takeaway:** **1,000 IU = NHS-cautious; 2,000 IU = optimal for indoor-living darker-skinned adults; 4,000 IU = NHS upper ceiling.** For this patient, **2,000 IU/day**.
+**Takeaway:** **1,000 IU = NHS-cautious; 2,000 IU = optimal for indoor-living darker-skinned adults; 4,000 IU = NHS upper ceiling.** For this patient profile, **2,000 IU/day**.
 
 ## 6. Roy et al. 2014 — Vitamin D & Fatigue (EViDiF)
 
@@ -54,7 +54,7 @@
 **Design / N:** Prospective interventional (uncontrolled), n = 174; 132 treated with ergocalciferol (D2).
 **Outcome / effect:** Significant improvement in Fatigue Assessment Scale after correction (P < 0.001). No placebo control.
 **Quality:** **C** (uncontrolled, used D2, regression-to-mean risk).
-**Takeaway:** Correcting documented deficiency *may* reduce fatigue — suggestive, not definitive. Relevant to this patient but **do not promise a cure**.
+**Takeaway:** Correcting documented deficiency *may* reduce fatigue — suggestive, not definitive. Relevant but **not a guaranteed cure**.
 
 ## 7. Martineau et al. 2017 — Vitamin D & Respiratory Infections
 
@@ -77,8 +77,8 @@
 **Citation:** Knapen MHJ, Drummen NE, Smit E, Vermeer C, Theuwissen E. *Three-year low-dose menaquinone-7 supplementation helps decrease bone loss in healthy postmenopausal women.* Osteoporos Int. 2013;24(9):2499–507. PMID: 23525894.
 **Design / N:** RCT, DB-PC, 3 yr, n = 244 postmenopausal women, 180 µg MK-7/day vs placebo.
 **Outcome / effect:** MK-7 reduced age-related BMD loss at lumbar spine and femoral neck (not total hip); improved osteocalcin carboxylation.
-**Quality:** A design, **population mismatch** for a 29M male.
-**Takeaway:** Best RCT evidence for MK-7 is postmenopausal bone — extrapolation to a 29M is weak.
+**Quality:** A design, **population mismatch** for a young adult male.
+**Takeaway:** Best RCT evidence for MK-7 is postmenopausal bone — extrapolation to a young adult male is weak.
 
 ## 10. Schurgers et al. 2007 — MK-7 vs K1 PK
 
@@ -94,7 +94,7 @@
 **Design / N:** RCT n = 365, MK-7 720 µg + D3 25 µg/day vs placebo, 2 yr.
 **Outcome / effect:** **No significant overall difference** in aortic valve calcification; CAC ≥400 subgroup showed less progression and fewer CV events (1.9% vs 6.7%).
 **Quality:** B (mechanism strong, primary endpoint negative, post-hoc subgroup signal).
-**Takeaway:** The "D3 deposits, K2 directs" story is **mechanistically plausible, clinically unproven in primary prevention**. For a 29M with no CV risk, K2 is **low-yield insurance**.
+**Takeaway:** The "D3 deposits, K2 directs" story is **mechanistically plausible, clinically unproven in primary prevention**. For a young adult male with no CV risk, K2 is **low-yield insurance**.
 
 ## 12. Vitamin D Toxicity Threshold
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Recommendation for the Patient
+## Recommendation
 
 | Item | Recommendation |
 |---|---|
@@ -118,10 +118,10 @@
 | **Re-evaluate fatigue** | If 25(OH)D normalizes (>75 nmol/L) and fatigue persists at 3 months, consider workup for iron/ferritin, B12, thyroid, and sleep — do not assume vitamin D is the sole driver. |
 
 **Honest evidence grading:**
-- Vitamin D3 supplementation for this patient: **strong evidence** (A).
-- D3 specifically for his fatigue: **suggestive evidence** (B–C; effect contingent on baseline deficiency).
-- K2 (MK-7) addition: **weak evidence** for his age/sex (C); reasonable on safety, optional on benefit.
-- Combined D3+K2 for CV prevention in a healthy 29M: **insufficient evidence** (D).
+- Vitamin D3 supplementation for this patient profile: **strong evidence** (A).
+- D3 specifically for fatigue: **suggestive evidence** (B–C; effect contingent on baseline deficiency).
+- K2 (MK-7) addition: **weak evidence** for this age/sex (C); reasonable on safety, optional on benefit.
+- Combined D3+K2 for CV prevention in a healthy young adult male: **insufficient evidence** (D).
 
 ---
 

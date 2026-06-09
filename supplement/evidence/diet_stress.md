@@ -1,6 +1,6 @@
 # Diet, Gut–Brain Axis, and Stress-Induced Hyperventilation / HPA Axis Dysregulation
 
-**Patient context:** adult Korean male in the UK with stress-induced hyperventilation (occasional breath-holding/dyspnea), chronic fatigue, suspects diet as root cause. Question: what dietary changes and nutrient sufficiency are evidence-supported for HPA-axis stress regulation?
+**Clinical context:** Adult patient with stress-induced hyperventilation (occasional breath-holding/dyspnea), chronic fatigue, suspects diet as root cause. Question: what dietary changes and nutrient sufficiency are evidence-supported for HPA-axis stress regulation?
 
 ---
 
@@ -26,7 +26,7 @@ The strongest dietary lever is **shifting from Western to Mediterranean pattern*
 - **Intervention vs comparator:** Modified Mediterranean diet (ModiMedDiet) with 7 dietitian sessions vs befriending/social-support visits matched for contact frequency.
 - **Outcome + effect size:** MADRS depression score: between-group **Cohen's d = -1.16 (95% CI -1.73 to -0.59)**, p < 0.001. Remission rates: 32.3% diet vs 8.0% control. **NNT = 4.1**.
 - **Quality grade: B** (first-of-kind RCT, small N, single-blind; large effect size).
-- **Clinical takeaway:** Diet quality change alone produced a large effect on depressive symptoms within 12 weeks — actionable proof-of-concept for this patient.
+- **Clinical takeaway:** Diet quality change alone produced a large effect on depressive symptoms within 12 weeks — actionable proof-of-concept for this patient profile.
 
 ---
 
@@ -38,7 +38,7 @@ The strongest dietary lever is **shifting from Western to Mediterranean pattern*
 - **Intervention vs comparator:** Caffeine intake (low vs high dose) vs no/low caffeine.
 - **Outcome + effect size:** Overall SMD = 0.94 (95% CI 0.28–1.60). Dose-stratified: low-dose SMD = 0.61 (0.42–0.79); **high-dose (>400 mg/day) SMD = 2.86 (2.50–3.22)**.
 - **Quality grade: B** (heterogeneous studies, but clear dose-response signal).
-- **Clinical takeaway:** Cap caffeine at ≤200 mg/day (≈1 brewed coffee); avoid the >400 mg threshold that triples anxiety risk. Particularly relevant given Korean coffee culture + UK work-driven coffee intake.
+- **Clinical takeaway:** Cap caffeine at ≤200 mg/day (≈1 brewed coffee); avoid the >400 mg threshold that triples anxiety risk.
 
 ### 2.2 Knüppel A, Shipley MJ, Llewellyn CH, Brunner EJ (2017)
 - **Citation:** *Sugar intake from sweet food and beverages, common mental disorder and depression: prospective findings from the Whitehall II study.* Scientific Reports 7(1):6287. DOI: 10.1038/s41598-017-05649-7. PMID: 28751637.
@@ -46,7 +46,7 @@ The strongest dietary lever is **shifting from Western to Mediterranean pattern*
 - **Intervention vs comparator:** Highest vs lowest tertile of sugar intake from sweet foods/beverages.
 - **Outcome + effect size:** **OR 1.23 (95% CI 1.02–1.48)** for incident common mental disorder in men in highest sugar tertile, adjusted for confounders.
 - **Quality grade: A** (large prospective cohort, well-adjusted; observational).
-- **Clinical takeaway:** Cut sugary drinks and confectionery — a male-specific 23% incidence increase mirrors this patient's demographic.
+- **Clinical takeaway:** Cut sugary drinks and confectionery — a male-specific 23% incidence increase is relevant for adult male patients.
 
 ### 2.3 Glycemic variability and anxiety/depression (supporting evidence)
 - **Citation:** Penckofer S et al. *Does glycemic variability impact mood and quality of life?* Diabetes Technol Ther 14(4):303–10 (2012). DOI: 10.1089/dia.2011.0191. PMID: 22324383. Extension: Park HJ et al. *Risk of depression and anxiety disorders according to long-term glycemic variability.* J Affect Disord 343:163–170 (2023).
@@ -73,7 +73,7 @@ The strongest dietary lever is **shifting from Western to Mediterranean pattern*
 - **Intervention vs comparator:** *L. helveticus* R0052 + *B. longum* R0175 (Probio-Stick, 3×10⁹ CFU/day) vs placebo.
 - **Outcome + effect size:** Significant reductions in HSCL-90 global severity, somatisation, depression, anger-hostility; HADS global score lowered; **24-h urinary free cortisol reduced** (p < 0.05) in probiotic group.
 - **Quality grade: B** (small RCT, healthy population, but objective HPA-axis marker improved).
-- **Clinical takeaway:** Only psychobiotic RCT to show a downstream HPA-axis (cortisol) effect — directly relevant to the patient's HPA dysregulation concern.
+- **Clinical takeaway:** Only psychobiotic RCT to show a downstream HPA-axis (cortisol) effect — directly relevant to HPA dysregulation concerns.
 
 ---
 
@@ -105,7 +105,7 @@ The strongest dietary lever is **shifting from Western to Mediterranean pattern*
 - **Intervention vs comparator:** B-complex (B6/B9/B12 ± others) vs placebo.
 - **Outcome + effect size:** **Stress: SMD 0.23 (95% CI 0.02–0.45), p = 0.03 — significant**. Depression: SMD 0.15 (-0.01–0.32), p = 0.07 (trend). Anxiety: no effect (SMD 0.03).
 - **Quality grade: A** (SR/MA of RCTs).
-- **Clinical takeaway:** B-complex helps stress (especially in at-risk/deficient individuals) but is not a primary anxiety treatment. Korean diets shifting to UK staples often drop folate intake — verify B12 (vegetarianism, gastritis) and folate status before supplementing.
+- **Clinical takeaway:** B-complex helps stress (especially in at-risk/deficient individuals) but is not a primary anxiety treatment. Dietary shifts (e.g. from East Asian to Western staples) can lower folate intake — verify B12 (vegetarianism, gastritis) and folate status before supplementing.
 
 ---
 
