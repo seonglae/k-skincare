@@ -3,9 +3,9 @@ import Pastel from 'pastel';
 
 const app = new Pastel({
   importMeta: import.meta,
-  name: 'k-skincare',
+  name: 'k-skincare-cli',
   description: 'Evidence-based K-skincare consultation CLI',
-  version: '0.1.0',
+  version: '0.2.2',
 });
 
 await app.run();

@@ -25,10 +25,14 @@ Restart Claude Code (or `/skills` refresh) — skill auto-activates when user as
 ### Option 3 — Standalone interactive CLI (no Claude required)
 
 ```bash
-npx k-skincare-cli              # terminal wizard, rule-based engine, English only
+# Via npx (explicit package flag — secondary bin)
+npx -p k-skincare k-skincare-cli
+
+# Or install globally then call directly
+npm i -g k-skincare && k-skincare-cli
 ```
 
-Pastel + Ink TUI. Takes age / sex / region / skin type / concerns / budget → outputs routine + shopping list + RCT citations.
+Pastel + Ink TUI. Takes age / sex / region / skin type / concerns / budget → outputs routine + shopping list + RCT citations. English only (Skill = multi-language).
 
 ## What it does
 

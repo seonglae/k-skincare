@@ -1,6 +1,6 @@
 {
   "name": "k-skincare",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Evidence-based K-skincare consultation skill for Claude Code + standalone interactive CLI. RCT-grounded. Multi-language.",
   "type": "module",
   "bin": {
