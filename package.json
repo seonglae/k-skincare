@@ -1,14 +1,12 @@
 {
   "name": "k-skincare",
-  "version": "0.2.2",
-  "description": "Evidence-based K-skincare consultation skill for Claude Code + standalone interactive CLI. RCT-grounded. Multi-language.",
+  "version": "0.3.0",
+  "description": "Evidence-based K-skincare consultation CLI + Claude Code skill. RCT-grounded. Multi-language.",
   "type": "module",
   "bin": {
-    "k-skincare": "./bin/install.js",
-    "k-skincare-cli": "./cli/dist/cli.js"
+    "k-skincare": "./cli/dist/cli.js"
   },
   "files": [
-    "bin/**",
     "skills/**",
     "cli/dist/**",
     "README.md",
@@ -17,7 +15,7 @@
   "scripts": {
     "build": "tsc -p cli/tsconfig.json",
     "prepublishOnly": "npm run build",
-    "test": "node bin/install.js help"
+    "test": "node cli/dist/cli.js --version"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.97.0",

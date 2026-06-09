@@ -1,40 +1,32 @@
 # k-skincare
 
-Evidence-based K-skincare consultation skill for Claude Code. RCT-grounded. Multi-language.
+Evidence-based K-skincare consultation. RCT-grounded. Multi-language.
 
-## Install
+Two ways to use:
+1. **Interactive CLI** (no Claude required) — `npx k-skincare`
+2. **Claude Code skill** (multi-language, conversational) — `npx skills add seonglae/k-skincare`
 
-### Option 1 — Vercel skills CLI (recommended, multi-agent: Claude Code, Cursor, Cline, Copilot, 18+)
+## Interactive CLI
 
 ```bash
-npx skills add seonglae/k-skincare                                # interactive
-npx skills add seonglae/k-skincare -g -a claude-code -y           # global, non-interactive
-npx skills add seonglae/k-skincare --list                         # show all skills in repo
+npx k-skincare
 ```
 
-### Option 2 — Standalone installer (Claude Code only)
+Pastel + Ink terminal wizard. Asks age / sex / region (UK/KR/US/EU) / skin type / concerns / budget → returns AM/PM routine + region-specific shopping list + RCT citations + warnings (drug interactions, cleanser pH, laser wavelength choice). English. Rule-based engine.
+
+## Claude Code skill
+
+Vercel skills CLI (multi-agent — Claude Code, Cursor, Cline, Copilot, 18+):
 
 ```bash
-npx k-skincare init             # global → ~/.claude/skills/k-skincare/
-npx k-skincare init --local     # project → ./.claude/skills/k-skincare/
-npx k-skincare uninstall        # remove
+npx skills add seonglae/k-skincare                            # interactive
+npx skills add seonglae/k-skincare -g -a claude-code -y       # global, non-interactive
+npx skills add seonglae/k-skincare --list                     # show available skills
 ```
 
 Restart Claude Code (or `/skills` refresh) — skill auto-activates when user asks about skincare.
 
-### Option 3 — Standalone interactive CLI (no Claude required)
-
-```bash
-# Via npx (explicit package flag — secondary bin)
-npx -p k-skincare k-skincare-cli
-
-# Or install globally then call directly
-npm i -g k-skincare && k-skincare-cli
-```
-
-Pastel + Ink TUI. Takes age / sex / region / skin type / concerns / budget → outputs routine + shopping list + RCT citations. English only (Skill = multi-language).
-
-## What it does
+### What the skill does
 
 Triggers when user mentions:
 - Skin concerns (acne, dark circles, pigmentation, pores, wrinkles, sensitivity, scars)
@@ -42,9 +34,9 @@ Triggers when user mentions:
 - Routine building (AM, PM, retinoid ramp-up)
 - Korean derm procedures (pico, Nd:YAG, PDL, IPL, fractional)
 
-## Behavior
+### Behavior
 
-1. **Detects user language** — conducts entire conversation in detected language
+1. **Detects user language** — entire conversation in detected language
 2. **Tier 1 intake** (5 essential questions) → basic plan
 3. **Offers Tier 2** (10 more) → refined plan
 4. **Tier 3** (procedure planning) if user open to in-clinic
@@ -52,7 +44,7 @@ Triggers when user mentions:
 
 ## Evidence base
 
-`skills/k-skincare/evidence/` — 6 peer-reviewed summary files covering:
+`skills/k-skincare/evidence/` — 6 peer-reviewed summary files:
 
 - Retinoid efficacy (Shalita 1996, Bagatin 2018, Kang 2005)
 - Cleanser pH (Korting 1995, Gfatter 1997)
@@ -63,7 +55,7 @@ Triggers when user mentions:
 
 All PMIDs/DOIs verified. No marketing claims.
 
-## Language support
+## Language support (skill)
 
 Korean / English / Japanese / Chinese / Spanish (tested patterns). Other languages: AI runtime translation.
 
@@ -77,13 +69,6 @@ Korean / English / Japanese / Chinese / Spanish (tested patterns). Other languag
 ## Companion (coming)
 
 Supplements / nutrition / sleep / cortisol / cutting → `k-wellness` (separate skill).
-
-## Uninstall
-
-```bash
-npx k-skincare uninstall          # global
-npx k-skincare uninstall --local  # project-local
-```
 
 ## License
 
