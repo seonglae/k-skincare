@@ -13,6 +13,7 @@ routine/evening.md
 
 # Claude Code local context (per-clone, never push)
 CLAUDE.md
+ROADMAP.md
 .claude/
 .claude.local.json
 

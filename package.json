@@ -1,7 +1,7 @@
 {
   "name": "k-skincare",
-  "version": "0.3.0",
-  "description": "Evidence-based K-skincare consultation CLI + Claude Code skill. RCT-grounded. Multi-language.",
+  "version": "0.4.0",
+  "description": "Evidence-based K-skincare + k-wellness consultation. Interactive CLI + 2 Claude Code skills. RCT-grounded. Multi-language.",
   "type": "module",
   "bin": {
     "k-skincare": "./cli/dist/cli.js"

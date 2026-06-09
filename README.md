@@ -6,6 +6,10 @@ Two ways to use:
 1. **Interactive CLI** (no Claude required) — `npx k-skincare`
 2. **Claude Code skill** (multi-language, conversational) — `npx skills add seonglae/k-skincare`
 
+Repo ships **2 skills**:
+- `k-skincare` — dermatology / cleanser / retinoid / pigmentation / Korean derm procedures
+- `k-wellness` — supplements / sleep / cutting / cortisol / hyperventilation / gut
+
 ## Interactive CLI
 
 ```bash
@@ -19,9 +23,10 @@ Pastel + Ink terminal wizard. Asks age / sex / region (UK/KR/US/EU) / skin type 
 Vercel skills CLI (multi-agent — Claude Code, Cursor, Cline, Copilot, 18+):
 
 ```bash
-npx skills add seonglae/k-skincare                            # interactive
-npx skills add seonglae/k-skincare -g -a claude-code -y       # global, non-interactive
-npx skills add seonglae/k-skincare --list                     # show available skills
+npx skills add seonglae/k-skincare                                        # interactive (lets you pick which skill)
+npx skills add seonglae/k-skincare --list                                 # show available skills (k-skincare + k-wellness)
+npx skills add seonglae/k-skincare --skill k-skincare -g -a claude-code -y   # install skincare only, global
+npx skills add seonglae/k-skincare --skill k-wellness -g -a claude-code -y   # install wellness only
 ```
 
 Restart Claude Code (or `/skills` refresh) — skill auto-activates when user asks about skincare.
@@ -66,9 +71,13 @@ Korean / English / Japanese / Chinese / Spanish (tested patterns). Other languag
 - Pregnancy / breastfeeding + retinoid → derm
 - Mental health (BDD, picking) → GP
 
-## Companion (coming)
+## k-wellness skill
 
-Supplements / nutrition / sleep / cortisol / cutting → `k-wellness` (separate skill).
+Same repo, second skill: supplements / sleep / cutting / cortisol / hyperventilation / gut. RCT-grounded (6 evidence files: ashwagandha, diet→stress/sleep/eye/gut-gas, vitamin D3+K2).
+
+Trigger terms: insomnia, fatigue, stress, hyperventilation, weight loss, visceral fat, flatus, eye fatigue, supplement stack questions.
+
+Install via Vercel CLI (above) or auto-included when `npx skills add seonglae/k-skincare` interactive.
 
 ## License
 
