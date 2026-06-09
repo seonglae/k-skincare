@@ -73,10 +73,6 @@ npx k-skincare uninstall          # global
 npx k-skincare uninstall --local  # project-local
 ```
 
-## Interactive CLI (optional)
-
-`cli/` directory — standalone Pastel + Ink CLI for terminal-only use. See `cli/README.md`.
-
 ## License
 
 MIT. Cite RCT primary sources, not this skill.

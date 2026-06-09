@@ -83,8 +83,6 @@ Files copied:
 Next:
   1. Restart Claude Code (or run /skills to refresh discovery)
   2. Ask a skincare question in any language — skill auto-activates
-  3. Optional CLI: npx k-skincare-cli (separate package)
-
 Uninstall: npx k-skincare uninstall${local ? ' --local' : ''}
 `);
 }

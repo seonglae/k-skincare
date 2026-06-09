@@ -16,6 +16,13 @@ CLAUDE.md
 .claude/
 .claude.local.json
 
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
 # OS
 .DS_Store
 Thumbs.db
