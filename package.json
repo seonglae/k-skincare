@@ -1,0 +1,43 @@
+{
+  "name": "@seonglae/k-skincare",
+  "version": "0.1.0",
+  "description": "Evidence-based K-skincare consultation skill for Claude Code. Installs via npx. Multi-language. RCT-grounded.",
+  "type": "module",
+  "bin": {
+    "k-skincare": "./bin/install.js"
+  },
+  "files": [
+    "bin",
+    "skill",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node bin/install.js help"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "skincare",
+    "k-beauty",
+    "k-skincare",
+    "dermatology",
+    "rct",
+    "evidence-based",
+    "korean-skincare"
+  ],
+  "author": "Seonglae Cho",
+  "license": "MIT",
+  "homepage": "https://github.com/seonglae/k-skincare",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonglae/k-skincare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seonglae/k-skincare/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
