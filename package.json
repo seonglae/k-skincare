@@ -1,19 +1,38 @@
 {
   "name": "k-skincare",
-  "version": "0.1.1",
-  "description": "Evidence-based K-skincare consultation skill for Claude Code. Installs via npx. Multi-language. RCT-grounded.",
+  "version": "0.2.0",
+  "description": "Evidence-based K-skincare consultation skill for Claude Code + standalone interactive CLI. RCT-grounded. Multi-language.",
   "type": "module",
   "bin": {
-    "k-skincare": "./bin/install.js"
+    "k-skincare": "./bin/install.js",
+    "k-skincare-cli": "./cli/dist/cli.js"
   },
   "files": [
     "bin",
     "skills",
+    "cli/dist",
     "README.md",
     "LICENSE"
   ],
   "scripts": {
+    "build": "tsc -p cli/tsconfig.json",
+    "prepublishOnly": "npm run build",
     "test": "node bin/install.js help"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.97.0",
+    "@inkjs/ui": "^2.0.0",
+    "ink": "^7.0.3",
+    "pastel": "^4.0.1",
+    "react": "^19.2.6",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.0",
+    "@types/react": "^19.2.14",
+    "@types/react-reconciler": "^0.33.0",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
   },
   "keywords": [
     "claude",
@@ -25,7 +44,9 @@
     "dermatology",
     "rct",
     "evidence-based",
-    "korean-skincare"
+    "korean-skincare",
+    "cli",
+    "consultation"
   ],
   "author": "Seonglae Cho",
   "license": "MIT",

@@ -22,6 +22,14 @@ npx k-skincare uninstall        # remove
 
 Restart Claude Code (or `/skills` refresh) — skill auto-activates when user asks about skincare.
 
+### Option 3 — Standalone interactive CLI (no Claude required)
+
+```bash
+npx k-skincare-cli              # terminal wizard, rule-based engine, English only
+```
+
+Pastel + Ink TUI. Takes age / sex / region / skin type / concerns / budget → outputs routine + shopping list + RCT citations.
+
 ## What it does
 
 Triggers when user mentions:

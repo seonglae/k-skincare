@@ -23,6 +23,10 @@ CLAUDE.md
 *.pem
 *.key
 
+# Node + build artifacts
+node_modules/
+cli/dist/
+
 # OS
 .DS_Store
 Thumbs.db
