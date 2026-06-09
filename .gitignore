@@ -23,9 +23,10 @@ CLAUDE.md
 *.pem
 *.key
 
-# Node + build artifacts
+# Node
 node_modules/
-cli/dist/
+
+# cli/dist tracked in git (small build output, needed for npm publish)
 
 # OS
 .DS_Store

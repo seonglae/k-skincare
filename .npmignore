@@ -1,0 +1,51 @@
+# Personal case files — NEVER include in published package
+concern.md
+status.md
+solution.md
+supplement/
+routine/
+/cases/
+/private/
+
+# Claude Code local context
+CLAUDE.md
+.claude/
+.claude.local.json
+
+# Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Source files (only ship cli/dist build, not src)
+cli/src/
+cli/tsconfig.json
+cli/.gitignore
+cli/README.md
+
+# Dev / build
+node_modules/
+*.log
+.npm/
+
+# Repo metadata
+.git/
+.github/
+.gitignore
+.gitattributes
+.npmignore
+package-lock.json
+tsconfig.json
+
+# Legacy duplicate evidence (canonical lives in skills/k-skincare/evidence/)
+evidence/
